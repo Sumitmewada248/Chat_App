@@ -10,6 +10,7 @@ return(
     <div className="w-[30%]  bg-black text-gray-300">
         <Search/>
         <User/>
+        
    <Logout/>
     </div>
  

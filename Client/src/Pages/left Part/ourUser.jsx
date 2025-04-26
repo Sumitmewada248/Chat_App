@@ -9,7 +9,7 @@ const OurUser = () => {
                 <div className="flex flex-col">
                     <h1 className="text-white font-bold">Manish</h1>
                     <span>manish@dev.com</span>
-                    
+                    <span className="text-sm text-gray-400">Offline</span>
                 </div>
             </div>
     
